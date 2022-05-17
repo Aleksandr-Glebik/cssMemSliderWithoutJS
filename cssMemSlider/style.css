@@ -122,3 +122,19 @@ margin-left: -60%;
 #slide-5:checked ~ .content > .text-container > .text-content > .text-1 {
 margin-left: -80%;
 }
+
+#slide-1:checked ~ .content > .navigation > .btn-label-1 {
+    background: #323c39;
+}
+#slide-2:checked ~ .content > .navigation > .btn-label-2 {
+    background: #323c39;
+}
+#slide-3:checked ~ .content > .navigation > .btn-label-3 {
+    background: #323c39;
+}
+#slide-4:checked ~ .content > .navigation > .btn-label-4 {
+    background: #323c39;
+}
+#slide-5:checked ~ .content > .navigation > .btn-label-5 {
+    background: #323c39;
+}
