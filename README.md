@@ -1,1 +1,1 @@
-Ссылка нп deploy проетка будет указана здесь:
+https://aleksandr-glebik.github.io/cssMemSliderWithoutJS/cssMemSlider/index.html
